@@ -1,0 +1,16 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: salmon;
+    font-size: 20px;
+    transition: width 2s;
+}
+
+div:hover{
+    width: 700px;
+}
+   
+
+
+
+
